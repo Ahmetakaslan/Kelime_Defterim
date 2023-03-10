@@ -1,7 +1,10 @@
 # sozluk_uygulamasi
 
 
-![bir](https://user-images.githubusercontent.com/95686166/224374479-3f73578f-8a52-4f36-b396-3efb7b78275e.jpeg)
+<img src="https://user-images.githubusercontent.com/95686166/224374479-3f73578f-8a52-4f36-b396-3efb7b78275e.jpeg" width="120" height="220">
+
+
+
 
 
 A new Flutter project.
