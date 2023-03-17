@@ -1,5 +1,5 @@
 # sozluk_uygulamasi
-
+Flutte & Dart
 
 <img src="https://user-images.githubusercontent.com/95686166/224374479-3f73578f-8a52-4f36-b396-3efb7b78275e.jpeg" width="350" height="700">
 
