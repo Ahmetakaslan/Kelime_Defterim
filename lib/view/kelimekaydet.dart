@@ -74,7 +74,7 @@ class _KelimeKayitState extends State<KelimeKayit> {
               ),
               ElevatedButton(
                   onPressed: () {
-                    if (tf_ingilizce.text != "" && tf_turkce != "") {
+                    if (tf_ingilizce.text != "" && tf_turkce.text != "") {
                       kelimeKaydet(tf_ingilizce.text, tf_turkce.text);
                     } else {
                       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
