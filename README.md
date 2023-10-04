@@ -1,6 +1,7 @@
 # sozluk_uygulamasi
 Flutte & Dart
 ## if you want to download
+
 <a href="https://github.com/Ahmetakaslan/Kelime_Defterim/blob/master/app-release.apk" download="kelime_Defterim.apk">
 <img src="download.png" alt="Download the app" style="width:100px;height:70px;"></a>
 
