@@ -3,13 +3,13 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:sozluk_uygulamasi/VeriTabanYardimcisi.dart';
+import 'package:sozluk_uygulamasi/model/VeriTabanYardimcisi.dart';
 
-import 'package:sozluk_uygulamasi/kelimelerDb.dart';
-import 'package:sozluk_uygulamasi/kelimelerdao.dart';
+import 'package:sozluk_uygulamasi/model/kelimelerDb.dart';
+import 'package:sozluk_uygulamasi/model/kelimelerdao.dart';
 
-import 'detaysayfa.dart';
-import 'kelimekaydet.dart';
+import 'view/detaysayfa.dart';
+import 'view/kelimekaydet.dart';
 
 void main() {
   runApp(const MyApp());

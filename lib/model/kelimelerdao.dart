@@ -1,7 +1,7 @@
 import 'dart:collection';
 
-import 'package:sozluk_uygulamasi/VeriTabanYardimcisi.dart';
-import 'package:sozluk_uygulamasi/kelimelerDb.dart';
+import 'package:sozluk_uygulamasi/model/VeriTabanYardimcisi.dart';
+import 'package:sozluk_uygulamasi/model/kelimelerDb.dart';
 
 class Kelimelerdao {
   Future<List<Kelimeler>> tumKelimaler() async {

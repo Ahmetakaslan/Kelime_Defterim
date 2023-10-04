@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:sozluk_uygulamasi/guncelle.dart';
-import 'package:sozluk_uygulamasi/kelimelerDb.dart';
-import 'package:sozluk_uygulamasi/kelimelerdao.dart';
+import 'package:sozluk_uygulamasi/view/guncelle.dart';
+import 'package:sozluk_uygulamasi/model/kelimelerDb.dart';
+import 'package:sozluk_uygulamasi/model/kelimelerdao.dart';
 import 'package:sozluk_uygulamasi/main.dart';
 
 class DetaySayfa extends StatefulWidget {
