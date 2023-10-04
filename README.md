@@ -1,8 +1,8 @@
 # sozluk_uygulamasi
 Flutte & Dart
 ## if you want to download
-<a href="https://github.com/Ahmetakaslan/Kelime_Defterim/blob/master/app-release.apk" download="Bmi.apk"><img src="down.png" alt="Download the app" style="width:100px;height:70px;"></a>
-https://github.com/Ahmetakaslan
+<a href="https://github.com/Ahmetakaslan/Kelime_Defterim/blob/master/app-release.apk" download="kelime_Defterim.apk"><img src="download.png" alt="Download the app" style="width:100px;height:70px;"></a>
+
 <img src="https://user-images.githubusercontent.com/95686166/224374479-3f73578f-8a52-4f36-b396-3efb7b78275e.jpeg" width="350" height="700">
 
 <img src="https://user-images.githubusercontent.com/95686166/224375333-0038f27c-d15c-463b-b2c6-db1952d2b6b6.jpeg"  width="350" height="700">
