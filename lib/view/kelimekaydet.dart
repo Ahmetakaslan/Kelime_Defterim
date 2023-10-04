@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:sozluk_uygulamasi/model/kelimelerdao.dart';
+import 'package:sozluk_uygulamasi/viewmodel/kelimelerdao.dart';
 import 'package:sozluk_uygulamasi/main.dart';
 
 class KelimeKayit extends StatefulWidget {

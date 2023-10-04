@@ -3,7 +3,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:sozluk_uygulamasi/model/kelimelerDb.dart';
 
-import '../model/kelimelerdao.dart';
+import '../viewmodel/kelimelerdao.dart';
 import '../main.dart';
 
 class Guncelle extends StatefulWidget {

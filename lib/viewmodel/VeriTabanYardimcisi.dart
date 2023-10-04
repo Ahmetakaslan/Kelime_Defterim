@@ -6,6 +6,7 @@ import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
   
 class VeriTabaniYardimcisi{
+  // database helper
    static final String databaseName = "sozluk.sqlite";
     static Future<Database> connectToDatabase() async {
     String pathOfDatabase = join(await getDatabasesPath(), databaseName);

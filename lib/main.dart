@@ -3,10 +3,10 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:sozluk_uygulamasi/model/VeriTabanYardimcisi.dart';
+import 'package:sozluk_uygulamasi/viewmodel/VeriTabanYardimcisi.dart';
 
 import 'package:sozluk_uygulamasi/model/kelimelerDb.dart';
-import 'package:sozluk_uygulamasi/model/kelimelerdao.dart';
+import 'package:sozluk_uygulamasi/viewmodel/kelimelerdao.dart';
 
 import 'view/detaysayfa.dart';
 import 'view/kelimekaydet.dart';
